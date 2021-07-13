@@ -420,9 +420,9 @@ sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-ve
 <End EntitySet="ContactSet" Role="ToRole_Assoc_BusinessPartner_Contacts"/>
 </AssociationSet>
 </EntityContainer>
-<atom:link rel="self" href="http://dewdflhanaui5.emea.global.corp.sap:8001/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/$metadata"
+<atom:link rel="self" href="/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/$metadata"
 xmlns:atom="http://www.w3.org/2005/Atom"/>
-<atom:link rel="latest-version" href="http://dewdflhanaui5.emea.global.corp.sap:8001/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/$metadata"
+<atom:link rel="latest-version" href="/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/$metadata"
 xmlns:atom="http://www.w3.org/2005/Atom"/>
 </Schema>
 </edmx:DataServices>

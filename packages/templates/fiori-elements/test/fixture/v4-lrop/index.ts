@@ -20,7 +20,7 @@ export const v4LropTestData: FEApp<LROP> = {
     },
     service: {
         version: OdataVersion.v4,
-        url: 'https://ldai1er9.wdf.sap.corp:44300',
+        url: 'http://example.com',
         path: '/sap/opu/odata4/dmo/ui_travel_uuid_um_v4/srvd/dmo/ui_travel_uuid_um/0001',
         metadata: readFileSync(join(__dirname, 'metadata.xml'), 'utf-8')
     },
